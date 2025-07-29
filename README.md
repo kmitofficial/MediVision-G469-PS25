@@ -37,7 +37,7 @@ MediVision improves diagnostic efficiency, supports medical education, and enabl
 - Evaluated using a clinical benchmark of 2,500 expert queries across 7 diagnostic categories.
 
 # 🧱 Architecture
-![Architecture](./MediVision%20Architecture%20Diagram.png)
+![Architecture](./MediVision_Architecture_Diagram.png)
 
 ## 🛠️ Tech Stack
 
