@@ -85,3 +85,28 @@ MediVision improves diagnostic efficiency, supports medical education, and enabl
 
 - **👨‍👩‍👧‍👦 Patients (Optional)**  
   Benefit from faster and more accurate radiology reports and diagnoses.
+
+  
+## ❓ Justification for using Agentic Workflows 
+
+- **🏥 Handles Complex Medical Tasks**  
+   Agentic workflows break down the task and handle each step one by one.
+
+- **🔧 Combines Multiple Tools Automatically**  
+   Instead of using one tool for everything, the agent decides which tools to use and when.
+
+- **💯 Improves Accuracy and Flexibility**  
+   The agent plans a reasoning path based on the specific question, improving clinical relevance.
+
+- **🧠 Mimics Clinical Thinking**  
+   Doctors think step-by-step: *“What’s the finding? Where is it? Has it changed?”*  
+
+- **🔍 Enables New Use Cases**  
+   Supports advanced comparisons like evaluating two X-rays over time, detecting subtle changes.
+
+## 🤝 Contributors
+- [@Akshaya05-code](https://github.com/Akshaya05-code) - Kadari Akshaya
+- [@pranavi-code](https://github.com/pranavi-code) - Ginnareddy Pranavi Reddy
+- [@gouniaksharareddy](https://github.com/gouniaksharareddy) - Gouni Akshara Reddy
+- [@Tejaswi-g](https://github.com/Tejaswi-g) - Gillella Tejaswi
+- [@guntishivani](https://github.com/guntishivani) - Gunti Shivani
